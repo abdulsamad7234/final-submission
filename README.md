@@ -106,8 +106,6 @@ Step 11: The default Username And Password For User Is "guest@gmail.com" And "gu
 **Answer:** Please check you have installed the mysql correctly and have updated the correct db details in application.properties file. Also you can try doing maven clean install and force update the project and restart.
 <hr>
 
-Note:- This is a Sample Project for learning purpose, we have not much considered of web security.
-
 #### "Suggestions and project improvement ideas are welcomed!"
 
 <bold>Thanks a lot,</bold><br/>
